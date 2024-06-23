@@ -9,4 +9,4 @@ if(len(array) == 1):
     print(array[0])
 else:
     for w in array:
-        print(w)
+        print(w) 
