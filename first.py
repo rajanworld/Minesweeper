@@ -6,7 +6,7 @@ array = [55,"d"]
 # check if array count 0
 
 if(len(array) == 1):
-    print(array[0])
+    print(array[1])
 else:
     for w in array:
         print(w) 
